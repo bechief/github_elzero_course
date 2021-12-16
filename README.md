@@ -2,6 +2,3 @@
 train on github with elzero cource
 
 this is frist updata
-
-
-add third update
